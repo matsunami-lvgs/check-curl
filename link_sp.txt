@@ -14,7 +14,7 @@
 "https://job.kiracare.jp/content/episode"
 "https://job.kiracare.jp/content/episode/7"
 "https://job.kiracare.jp/content/job_search_type"
-"https://job.kiracare.jp/content/job_search_type/center/13
+"https://job.kiracare.jp/content/job_search_type/center/13"
 "https://job.kiracare.jp/content/license"
 "https://job.kiracare.jp/content/license/202"
 "https://job.kiracare.jp/content/quiz"
